@@ -1,0 +1,7 @@
+{
+  "name": "MedSafe AI",
+  "description": "AI-powered healthcare assistant for medicine safety, interaction checking, prescription OCR, and symptom guidance.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
